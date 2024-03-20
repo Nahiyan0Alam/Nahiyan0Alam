@@ -31,9 +31,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="wordpress logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-</div>
 
-<div/>
+<div align="center">
+
+
+
+
+
+.
+
+
+        
+</div>
 
 <div align="center">
   <a href="https://www.instagram.com/nahiyan_4686/" target="_blank">
